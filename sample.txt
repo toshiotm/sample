@@ -17,3 +17,6 @@ fix-bug
 pullreq-test
 pullreq-test
 pullreq-test32
+
+
+git reset --soft
