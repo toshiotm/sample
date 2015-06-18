@@ -18,3 +18,4 @@ pullreq-test
 pullreq-test
 pullreq-test32
 
+cherry-pic1k
